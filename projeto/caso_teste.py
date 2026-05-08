@@ -7,3 +7,8 @@ camisa = Produto.Produto(nome = "Maçã", preco =30.0, tipo_desconto = TipoDesco
 
 celular = Produto.Produto(nome = "Maçã", preco =1199.9, tipo_desconto = TipoDesconto.PERCENTUAL, valor_desconto=0.15)
 
+maca.calculaValorFinal()
+
+camisa.calculaValorFinal()
+
+celular.calculaValorFinal()
